@@ -1,0 +1,13 @@
+.bg-inverse{
+    background: linear-gradient(262deg,#490A3D,#BD1550);
+}
+.navbar{
+    height: 100px;
+ 
+}
+.logo{
+    width: 120px;
+    height: 120px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
